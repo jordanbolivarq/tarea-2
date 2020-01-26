@@ -31,9 +31,6 @@ namespace Tarea_2
             double x = ((t * Math.Sin(bRadianes)) / Math.Sin(dRadianes));
 
             Console.WriteLine("x = " + x);
-            Console.WriteLine("t = " + t);
-            Console.WriteLine("c = " + c);
-            Console.WriteLine("d = " + d);
         }
     }
 }
